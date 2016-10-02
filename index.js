@@ -3,7 +3,7 @@ module.exports = {
     babelrc: false,
     // This is a feature of `babel-loader` for webpack (not Babel itself).
     // It enables caching results in OS temporary directory for faster rebuilds.
-    cacheDirectory: true,
+    // cacheDirectory: true,
     presets: [
         require.resolve('babel-preset-stage-0'),
         // Latest stable ECMAScript features
