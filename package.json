@@ -1,8 +1,7 @@
 {
   "name": "babel-preset-sakulstra",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
-    "babel": "^6.5.2",
     "babel-cli": "^6.14.0",
     "babel-eslint": "^6.1.2",
     "babel-jest": "^15.0.0",
